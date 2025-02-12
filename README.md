@@ -1,7 +1,7 @@
 ## Olá eu sou a Carlos Vinicius, Desenvolvedor Back-end
 
 - 💻 Futuro Engenheiro de Software
-- ♨️ Estudando Java
+- ♨️ Estudando Java e Spring Boot.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosviniciusx&show_icons=true&theme=tokyonight)
 
